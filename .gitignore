@@ -5,3 +5,5 @@ tags
 tags-cn
 .hg*
 tmp/*
+# ignore commit message
+.gitcommit
